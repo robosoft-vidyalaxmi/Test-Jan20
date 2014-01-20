@@ -27,5 +27,6 @@
 }
 
 - (IBAction)doneButton:(id)sender {
+    NSLog(@"done button clicked");
 }
 @end
