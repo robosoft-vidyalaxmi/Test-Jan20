@@ -27,5 +27,6 @@
 }
 
 - (IBAction)buttonClick:(id)sender {
+    NSLog(@"Click button tapped");
 }
 @end
